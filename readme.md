@@ -3,6 +3,8 @@
 
 <h2>CTF</h2>
 
+[Hashes](CTF/Hashing/Hash.md)
+
 <h2>CTF Writeups</h2>
 US Cyber Open 06/24
 
