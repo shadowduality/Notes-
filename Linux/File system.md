@@ -1,15 +1,18 @@
 IT'S ALL FILES!!!!!!! ALL THE WAY DOWN!!!!
-````Filesystem :
+
+
+````
+Filesystem :
 
 ```mermaid
 
 graph TD;
+
     Root(/)-->/home;
     Root (/)-->/usr;
     /usr -->/bin;
     /usr -->/local;
     Root(/)-->/etc;
-    C-->D;
 ```
 ````
 
