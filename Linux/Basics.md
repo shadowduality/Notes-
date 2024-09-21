@@ -1,4 +1,4 @@
-<H2>Kill a process that won't die </h2> :arrow_forward: 
+<H2>Kill a process that won't die  :arrow_forward: </h2>
 
 ```
 kill -9 <process id #>
