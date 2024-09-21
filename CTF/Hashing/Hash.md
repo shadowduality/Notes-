@@ -1,10 +1,9 @@
-Examples of common hashes:
+<h2>Identify Hashes:</h2>
 
-Identify Hashes:
+__hashcat__:
+`hashcat <hashfile> --identify`
 
-<mark style="background: #FF5582A6;">__Hashcat__</mark>: 
-`hashcat <hashfile]> --identify`
+__hashid__: 
+`hashid '<hash>'`
 
-<mark style="background: #FF5582A6;">__hashid__</mark>: 
-`hashid b5962d8173c14e60259211bcf25d1263c36e0ad7da32ba9d07b224eac1834813apr1$71850310$gh9m4xcAn3MGxogwX/ztb.'`
-
+<h2>Crack Hashes</h2>
