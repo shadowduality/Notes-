@@ -1,6 +1,8 @@
 IT'S ALL FILES!!!!!!! ALL THE WAY DOWN!!!!
-````text
+````Filesystem :
+
 ```mermaid
+
 graph TD;
     Root(/)-->/home;
     Root (/)-->/usr;
@@ -10,6 +12,8 @@ graph TD;
     C-->D;
 ```
 ````
+
+
 
 root 
 
