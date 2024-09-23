@@ -2,9 +2,9 @@
 <h1>General Information</h1>
 	<h3>Linux</h3>
 
-[Basic Commands](Upload/General/Linux/Basics.md)
+[Basic Commands](General/Linux/Basics.md)
 
-[Finding Things](Upload/General/Linux/Finding.md)
+[Finding Things](General/Linux/Finding.md)
 
 [Useful Commands](General/Linux/Useful.md)
 
