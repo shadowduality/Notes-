@@ -4,6 +4,8 @@
 
 [Basic Commands](Upload/General/Linux/Basics.md)
 
+[Finding Things(Upload/General/Linux/Finding.md)]
+
 [Useful Commands](General/Linux/Useful.md)
 
 <h3>Python</h3>

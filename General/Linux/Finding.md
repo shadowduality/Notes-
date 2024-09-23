@@ -1,16 +1,3 @@
-
-
-<H1>
-Redirect errors :arrow_forward: </h1>
-
-```
-|2>/dev/null
-```
-
-
-<h1>Finding Things</h1>
-<details open> 
-
 __find__   :arrow_forward:
 search for files in a directory hierarchy
 
@@ -33,13 +20,3 @@ __apt-cache search__ :arrow_forward: locate a package
 ```
 apt-cache search <name>
 ```
-
-
-</details>
-
-<H1>Kill a process that won't die  :arrow_forward: </h1>
-
-```
-kill -9 <process id #>
-```
-
