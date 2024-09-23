@@ -8,7 +8,6 @@
 [Virtual Environment](Python/venv.md)
 
 <h2>CTF</h2>
-
 [Hashes](CTF/Hashing/Hash.md)
 
 <h3>CTF Writeups</h3>
