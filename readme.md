@@ -5,7 +5,7 @@
 [Useful Commands](Linux/Useful.md)
 
 <h4>Python</h4>
-[Virtual Environment](Python/Virtual%20Environment.md)
+[Virtual Environment](Python/venv.md)
 
 <h2>CTF</h2>
 
