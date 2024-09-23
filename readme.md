@@ -5,9 +5,11 @@
 [Useful Commands](Linux/Useful.md)
 
 <h4>Python</h4>
+
 [Virtual Environment](Python/venv.md)
 
 <h2>CTF</h2>
+
 [Hashes](CTF/Hashing/Hash.md)
 
 <h3>CTF Writeups</h3>
