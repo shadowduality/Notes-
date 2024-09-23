@@ -2,7 +2,7 @@
 <h1>General Information</h1>
 	<h3>Linux</h3>
 	
-[Useful Commands](Useful.md)
+[Useful Commands](General/Linux/Useful.md)
 
 <h3>Python</h3>
 
