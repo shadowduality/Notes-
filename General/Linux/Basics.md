@@ -8,9 +8,9 @@ Redirect errors :arrow_forward: </h1>
 |2>/dev/null
 ```
 
-<details open> 
-<h1>Finding Things</h1>
 
+<h1>Finding Things</h1>
+<details open> 
 __find__ :arrow_forward: search for files in a directory hierarchy
 
 ```
