@@ -1,7 +1,9 @@
 :page_with_curl: My notes
 <h1>General Information</h1>
 	<h3>Linux</h3>
-	
+
+[Basic Commands](Upload/General/Linux/Basics.md)
+
 [Useful Commands](General/Linux/Useful.md)
 
 <h3>Python</h3>
