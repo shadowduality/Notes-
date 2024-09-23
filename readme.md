@@ -4,10 +4,9 @@
 	
 [Useful Commands](Useful.md)
 
-
 <h3>Python</h3>
 
-[Virtual Environment](GeneralInfo/Python/venv.md)
+[Virtual Environment](General/Python/venv.md)
 
 
 <h2>CTF</h2>
