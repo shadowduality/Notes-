@@ -1,7 +1,7 @@
 :page_with_curl: Notes stash. 
 <h1>General Information</h1>
 	<h4>Linux</h4>
-	
+
 [Useful Commands](General Info/Linux/Useful.md)
 
 <h4>Python</h4>
