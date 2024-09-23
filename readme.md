@@ -6,7 +6,7 @@
 
 <h4>Python</h4>
 
-[Virtual Environment](Python/venv.md)
+[Virtual Environment](venv.md)
 
 <h2>CTF</h2>
 
