@@ -1,6 +1,5 @@
 
 
-
 <H1>
 Redirect errors :arrow_forward: </h1>
 
