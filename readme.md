@@ -1,14 +1,14 @@
 :page_with_curl: Notes stash. 
 <h1>General Information</h1>
 	<h3>Linux</h3>
-
-
+	
 [Useful Commands](General Info/Linux/Useful.md)
+
 
 <h3>Python</h3>
 
-
 [Virtual Environment](General Info/Python/venv.md)
+
 
 <h2>CTF</h2>
 
