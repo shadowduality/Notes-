@@ -20,4 +20,4 @@
 <h3>CTF Writeups</h3>
 US Cyber Open 06/24
 
-[Emoticonsole](Upload/WriteUPs/Emoticonsole.md)
+[Emoticonsole](WriteUPs/Emoticonsole.md)
