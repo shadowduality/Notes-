@@ -10,5 +10,6 @@ __hashid__:
 hashid '<hash>'
 ```
 
-<h2>Crack Hashes</h2>
+
+
 
